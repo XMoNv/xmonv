@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @monvcc
+- 👋 Hi, I’m @XMoNv
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning web developments
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me monv.cc.happy@gmail.com
+- 📫 How to reach me xmonvya@gmail.com
 
 
 <!---
